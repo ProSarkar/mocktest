@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "text": "What is 2 + 2?",
+    "option1": "3",
+    "option2": "4",
+    "option3": "5",
+    "option4": "6",
+    "correctAnswer": "4",
+    "category": "Mathematics"
+  },
+  {
+    "id": 2,
+    "text": "What is the capital of France?",
+    "option1": "London",
+    "option2": "Berlin",
+    "option3": "Paris",
+    "option4": "Madrid",
+    "correctAnswer": "Paris",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 3,
+    "text": "Which planet is known as the Red Planet?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Venus",
+    "correctAnswer": "Mars",
+    "category": "Science"
+  },
+  {
+    "id": 4,
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "option1": "Charles Dickens",
+    "option2": "William Shakespeare",
+    "option3": "Jane Austen",
+    "option4": "Mark Twain",
+    "correctAnswer": "William Shakespeare",
+    "category": "History"
+  },
+  {
+    "id": 5,
+    "text": "What is the square root of 64?",
+    "option1": "6",
+    "option2": "7",
+    "option3": "8",
+    "option4": "9",
+    "correctAnswer": "8",
+    "category": "Mathematics"
+  },
+  {
+    "id": 6,
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "correctAnswer": "Carbon Dioxide",
+    "category": "Science"
+  },
+  {
+    "id": 7,
+    "text": "In which year did World War II end?",
+    "option1": "1943",
+    "option2": "1944",
+    "option3": "1945",
+    "option4": "1946",
+    "correctAnswer": "1945",
+    "category": "History"
+  },
+  {
+    "id": 8,
+    "text": "What is the largest ocean on Earth?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Arctic Ocean",
+    "option4": "Pacific Ocean",
+    "correctAnswer": "Pacific Ocean",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 9,
+    "text": "Solve: 15 ÷ 3 × 2",
+    "option1": "5",
+    "option2": "10",
+    "option3": "15",
+    "option4": "20",
+    "correctAnswer": "10",
+    "category": "Mathematics"
+  },
+  {
+    "id": 10,
+    "text": "Which element has the chemical symbol 'O'?",
+    "option1": "Gold",
+    "option2": "Oxygen",
+    "option3": "Osmium",
+    "option4": "Oganesson",
+    "correctAnswer": "Oxygen",
+    "category": "Science"
+  }
+]
