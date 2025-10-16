@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math",
+    "name": "Mathematics",
+    "description": "Basic mathematics questions",
+    "questionCount": 10
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "description": "General science questions",
+    "questionCount": 8
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "World history questions",
+    "questionCount": 6
+  },
+  {
+    "id": "gk",
+    "name": "General Knowledge",
+    "description": "General knowledge questions",
+    "questionCount": 12
+  }
+]
