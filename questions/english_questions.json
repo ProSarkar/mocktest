@@ -1,0 +1,14 @@
+[
+  {
+    "id": 201,
+    "text": "What is the synonym of 'Benevolent'?",
+    "option1": "Cruel",
+    "option2": "Kind",
+    "option3": "Stingy",
+    "option4": "Selfish",
+    "correctAnswer": "Kind",
+    "category": "english",
+    "difficulty": "medium",
+    "explanation": "Benevolent means well-meaning and kindly, which is synonymous with kind."
+  }
+]
