@@ -10,5 +10,83 @@
     "name": "English",
     "description": "English grammar and vocabulary",
     "questionCount": 40
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "description": "General science questions",
+    "questionCount": 35
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "World and Indian history",
+    "questionCount": 30
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "description": "World geography and Indian geography",
+    "questionCount": 25
+  },
+  {
+    "id": "current_affairs",
+    "name": "Current Affairs",
+    "description": "Recent events and news",
+    "questionCount": 45
+  },
+  {
+    "id": "general_knowledge",
+    "name": "General Knowledge",
+    "description": "General knowledge questions",
+    "questionCount": 50
+  },
+  {
+    "id": "reasoning",
+    "name": "Reasoning",
+    "description": "Logical and analytical reasoning",
+    "questionCount": 40
+  },
+  {
+    "id": "computer",
+    "name": "Computer Science",
+    "description": "Computer fundamentals and technology",
+    "questionCount": 30
+  },
+  {
+    "id": "quantitative_aptitude",
+    "name": "Quantitative Aptitude",
+    "description": "Advanced math and quantitative skills",
+    "questionCount": 55
+  },
+  {
+    "id": "verbal_ability",
+    "name": "Verbal Ability",
+    "description": "Advanced English and verbal skills",
+    "questionCount": 40
+  },
+  {
+    "id": "general_awareness",
+    "name": "General Awareness",
+    "description": "Current affairs and general knowledge",
+    "questionCount": 50
+  },
+  {
+    "id": "indian_polity",
+    "name": "Indian Polity",
+    "description": "Indian constitution and political system",
+    "questionCount": 35
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "description": "Indian economy and basic economics",
+    "questionCount": 30
+  },
+  {
+    "id": "environment",
+    "name": "Environment & Ecology",
+    "description": "Environmental science and ecology",
+    "questionCount": 25
   }
 ]
