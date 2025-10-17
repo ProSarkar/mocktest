@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "text": "Who is known as the 'Father of the Indian Constitution'?",
+    "option1": "Mahatma Gandhi",
+    "option2": "B.R. Ambedkar",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Sardar Patel",
+    "correctAnswer": "B.R. Ambedkar",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 2,
+    "text": "The 'Dandi March' was associated with which major historical event?",
+    "option1": "Non-Cooperation Movement",
+    "option2": "Quit India Movement",
+    "option3": "Civil Disobedience Movement",
+    "option4": "Swadeshi Movement",
+    "correctAnswer": "Civil Disobedience Movement",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 3,
+    "text": "Which river is also known as the 'Sorrow of Bihar'?",
+    "option1": "Ganga",
+    "option2": "Yamuna",
+    "option3": "Kosi",
+    "option4": "Gandak",
+    "correctAnswer": "Kosi",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 4,
+    "text": "Which article of the Indian Constitution deals with the Right to Equality?",
+    "option1": "Article 14",
+    "option2": "Article 15",
+    "option3": "Article 16",
+    "option4": "Article 19",
+    "correctAnswer": "Article 14",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 5,
+    "text": "The 'Nobel Prize' is not given in which of the following fields?",
+    "option1": "Mathematics",
+    "option2": "Physics",
+    "option3": "Chemistry",
+    "option4": "Literature",
+    "correctAnswer": "Mathematics",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 6,
+    "text": "Which of these is a dance form from Kerala?",
+    "option1": "Bharatanatyam",
+    "option2": "Kathak",
+    "option3": "Kathakali",
+    "option4": "Odissi",
+    "correctAnswer": "Kathakali",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 7,
+    "text": "Who was the first woman Prime Minister of India?",
+    "option1": "Sarojini Naidu",
+    "option2": "Indira Gandhi",
+    "option3": "Pratibha Patil",
+    "option4": "Mother Teresa",
+    "correctAnswer": "Indira Gandhi",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 8,
+    "text": "The 'Victoria Memorial' is located in which Indian city?",
+    "option1": "Delhi",
+    "option2": "Mumbai",
+    "option3": "Kolkata",
+    "option4": "Chennai",
+    "correctAnswer": "Kolkata",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 9,
+    "text": "Which planet is known as the 'Red Planet'?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Mars",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 10,
+    "text": "The 'Question Hour' in the Indian Parliament is primarily meant for?",
+    "option1": "Discussing the budget",
+    "option2": "Asking questions to ministers",
+    "option3": "Electing the speaker",
+    "option4": "Passing bills",
+    "correctAnswer": "Asking questions to ministers",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 11,
+    "text": "Which of these is NOT a fundamental right in the Indian Constitution?",
+    "option1": "Right to Equality",
+    "option2": "Right to Property",
+    "option3": "Right to Freedom of Religion",
+    "option4": "Right against Exploitation",
+    "correctAnswer": "Right to Property",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 12,
+    "text": "The 'Sunderbans' delta is primarily located in which state?",
+    "option1": "Odisha",
+    "option2": "West Bengal",
+    "option3": "Andhra Pradesh",
+    "option4": "Tamil Nadu",
+    "correctAnswer": "West Bengal",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 13,
+    "text": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+    "option1": "Bankim Chandra Chatterjee",
+    "option2": "Sarojini Naidu",
+    "option3": "Rabindranath Tagore",
+    "option4": "Mahatma Gandhi",
+    "correctAnswer": "Rabindranath Tagore",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 14,
+    "text": "Which of these is the longest river in India?",
+    "option1": "Yamuna",
+    "option2": "Brahmaputra",
+    "option3": "Godavari",
+    "option4": "Ganga",
+    "correctAnswer": "Ganga",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 15,
+    "text": "The 'Directive Principles of State Policy' are inspired by the constitution of which country?",
+    "option1": "United States",
+    "option2": "United Kingdom",
+    "option3": "Ireland",
+    "option4": "Canada",
+    "correctAnswer": "Ireland",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 16,
+    "text": "Who is the current Chief Minister of West Bengal (as of 2025)?",
+    "option1": "Buddhadeb Bhattacharjee",
+    "option2": "Mamata Banerjee",
+    "option3": "Dilip Ghosh",
+    "option4": "Adhir Ranjan Chowdhury",
+    "correctAnswer": "Mamata Banerjee",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 17,
+    "text": "The 'Chandrayaan-3' mission was launched by which organization?",
+    "option1": "NASA",
+    "option2": "ISRO",
+    "option3": "ESA",
+    "option4": "Roscosmos",
+    "correctAnswer": "ISRO",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 18,
+    "text": "Which country hosted the 2023 Cricket World Cup?",
+    "option1": "Australia",
+    "option2": "England",
+    "option3": "India",
+    "option4": "South Africa",
+    "correctAnswer": "India",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 19,
+    "text": "Who won the Nobel Peace Prize in 2023?",
+    "option1": "Malala Yousafzai",
+    "option2": "Narges Mohammadi",
+    "option3": "Denis Mukwege",
+    "option4": "Maria Ressa",
+    "correctAnswer": "Narges Mohammadi",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 20,
+    "text": "The 'Women's Reservation Bill' aims to reserve what percentage of seats in Lok Sabha for women?",
+    "option1": "25%",
+    "option2": "30%",
+    "option3": "33%",
+    "option4": "50%",
+    "correctAnswer": "33%",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 21,
+    "text": "Which Indian state recently implemented the 'Uniform Civil Code'?",
+    "option1": "Gujarat",
+    "option2": "Uttarakhand",
+    "option3": "Madhya Pradesh",
+    "option4": "Karnataka",
+    "correctAnswer": "Uttarakhand",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 22,
+    "text": "Who is the current President of India (as of 2025)?",
+    "option1": "Ram Nath Kovind",
+    "option2": "Pranab Mukherjee",
+    "option3": "Droupadi Murmu",
+    "option4": "Narendra Modi",
+    "correctAnswer": "Droupadi Murmu",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 23,
+    "text": "Which Indian city hosted the G20 Summit in 2023?",
+    "option1": "Mumbai",
+    "option2": "Kolkata",
+    "option3": "Chennai",
+    "option4": "New Delhi",
+    "correctAnswer": "New Delhi",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 24,
+    "text": "Who was appointed as the new Chief Justice of India in 2024?",
+    "option1": "Justice D.Y. Chandrachud",
+    "option2": "Justice N.V. Ramana",
+    "option3": "Justice U.U. Lalit",
+    "option4": "Justice S.A. Bobde",
+    "correctAnswer": "Justice D.Y. Chandrachud",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 25,
+    "text": "Which country recently launched its own digital currency 'Digital Rupee'?",
+    "option1": "United States",
+    "option2": "China",
+    "option3": "India",
+    "option4": "Japan",
+    "correctAnswer": "India",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 26,
+    "text": "What is the synonym of 'Benevolent'?",
+    "option1": "Cruel",
+    "option2": "Kind",
+    "option3": "Stingy",
+    "option4": "Selfish",
+    "correctAnswer": "Kind",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 27,
+    "text": "Choose the correct sentence:",
+    "option1": "She go to school every day.",
+    "option2": "She goes to school every day.",
+    "option3": "She going to school every day.",
+    "option4": "She gone to school every day.",
+    "correctAnswer": "She goes to school every day.",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 28,
+    "text": "What is the antonym of 'Ancient'?",
+    "option1": "Old",
+    "option2": "Modern",
+    "option3": "Historic",
+    "option4": "Classical",
+    "correctAnswer": "Modern",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 29,
+    "text": "Identify the part of speech for the word 'Quickly' in: He ran quickly.",
+    "option1": "Adjective",
+    "option2": "Noun",
+    "option3": "Adverb",
+    "option4": "Verb",
+    "correctAnswer": "Adverb",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 30,
+    "text": "Choose the correct spelling:",
+    "option1": "Accommodation",
+    "option2": "Acommodation",
+    "option3": "Accomodation",
+    "option4": "Acomodation",
+    "correctAnswer": "Accommodation",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 31,
+    "text": "What is the meaning of the idiom 'Break the ice'?",
+    "option1": "To fall through thin ice",
+    "option2": "To start a conversation",
+    "option3": "To end a relationship",
+    "option4": "To cause trouble",
+    "correctAnswer": "To start a conversation",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 32,
+    "text": "Which sentence is in the passive voice?",
+    "option1": "The cat chased the mouse.",
+    "option2": "The mouse was chased by the cat.",
+    "option3": "She writes a letter.",
+    "option4": "They are playing football.",
+    "correctAnswer": "The mouse was chased by the cat.",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 33,
+    "text": "What is the plural form of 'Criterion'?",
+    "option1": "Criterions",
+    "option2": "Criterion",
+    "option3": "Criteria",
+    "option4": "Criterias",
+    "correctAnswer": "Criteria",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 34,
+    "text": "Identify the correct preposition: The book is ___ the table.",
+    "option1": "in",
+    "option2": "on",
+    "option3": "at",
+    "option4": "by",
+    "correctAnswer": "on",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 35,
+    "text": "What is a synonym for 'Ubiquitous'?",
+    "option1": "Rare",
+    "option2": "Everywhere",
+    "option3": "Nowhere",
+    "option4": "Scarce",
+    "correctAnswer": "Everywhere",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 36,
+    "text": "What is 15% of 200?",
+    "option1": "15",
+    "option2": "20",
+    "option3": "30",
+    "option4": "25",
+    "correctAnswer": "30",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 37,
+    "text": "If a product is sold for ₹800 at a profit of 25%, what was its cost price?",
+    "option1": "₹600",
+    "option2": "₹640",
+    "option3": "₹700",
+    "option4": "₹750",
+    "correctAnswer": "₹640",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 38,
+    "text": "The ratio of boys to girls in a class is 3:2. If there are 15 boys, how many girls are there?",
+    "option1": "10",
+    "option2": "12",
+    "option3": "15",
+    "option4": "18",
+    "correctAnswer": "10",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 39,
+    "text": "A train travels 300 km in 5 hours. What is its speed?",
+    "option1": "50 km/h",
+    "option2": "55 km/h",
+    "option3": "60 km/h",
+    "option4": "65 km/h",
+    "correctAnswer": "60 km/h",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 40,
+    "text": "Simplify: 12 + 24 ÷ 3 × 2 - 5",
+    "option1": "15",
+    "option2": "20",
+    "option3": "23",
+    "option4": "25",
+    "correctAnswer": "23",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 41,
+    "text": "Find the average of first 10 natural numbers.",
+    "option1": "5",
+    "option2": "5.5",
+    "option3": "6",
+    "option4": "6.5",
+    "correctAnswer": "5.5",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 42,
+    "text": "A sum of ₹1000 becomes ₹1200 in 2 years at simple interest. What is the rate of interest?",
+    "option1": "8%",
+    "option2": "10%",
+    "option3": "12%",
+    "option4": "15%",
+    "correctAnswer": "10%",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 43,
+    "text": "If 15 men can complete a work in 12 days, how many days will 18 men take?",
+    "option1": "8 days",
+    "option2": "9 days",
+    "option3": "10 days",
+    "option4": "12 days",
+    "correctAnswer": "10 days",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 44,
+    "text": "What is the HCF of 36 and 48?",
+    "option1": "6",
+    "option2": "8",
+    "option3": "12",
+    "option4": "16",
+    "correctAnswer": "12",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 45,
+    "text": "A shopkeeper offers a 20% discount on a shirt marked at ₹500. What is the selling price?",
+    "option1": "₹400",
+    "option2": "₹420",
+    "option3": "₹450",
+    "option4": "₹480",
+    "correctAnswer": "₹400",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 46,
+    "text": "Convert 0.125 into fraction:",
+    "option1": "1/6",
+    "option2": "1/8",
+    "option3": "1/10",
+    "option4": "1/12",
+    "correctAnswer": "1/8",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 47,
+    "text": "If the cost price of 10 articles is equal to selling price of 8 articles, find the profit percent.",
+    "option1": "20%",
+    "option2": "25%",
+    "option3": "30%",
+    "option4": "35%",
+    "correctAnswer": "25%",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 48,
+    "text": "Find the LCM of 12 and 18:",
+    "option1": "24",
+    "option2": "30",
+    "option3": "36",
+    "option4": "42",
+    "correctAnswer": "36",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 49,
+    "text": "A person walks at 4 km/h. How much distance will he cover in 2 hours 30 minutes?",
+    "option1": "8 km",
+    "option2": "9 km",
+    "option3": "10 km",
+    "option4": "12 km",
+    "correctAnswer": "10 km",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 50,
+    "text": "What is 25% of 25% of 400?",
+    "option1": "20",
+    "option2": "25",
+    "option3": "30",
+    "option4": "35",
+    "correctAnswer": "25",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 51,
+    "text": "Which of these is NOT a prime number?",
+    "option1": "17",
+    "option2": "23",
+    "option3": "29",
+    "option4": "39",
+    "correctAnswer": "39",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 52,
+    "text": "If 2A = 3B and 4B = 5C, then A:C = ?",
+    "option1": "3:5",
+    "option2": "5:3",
+    "option3": "8:15",
+    "option4": "15:8",
+    "correctAnswer": "15:8",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 53,
+    "text": "A number when increased by 20% becomes 240. What is the number?",
+    "option1": "180",
+    "option2": "190",
+    "option3": "200",
+    "option4": "210",
+    "correctAnswer": "200",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 54,
+    "text": "The area of a square is 144 sq cm. What is its perimeter?",
+    "option1": "36 cm",
+    "option2": "42 cm",
+    "option3": "48 cm",
+    "option4": "52 cm",
+    "correctAnswer": "48 cm",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 55,
+    "text": "Simplify: (0.5 × 0.5 + 0.05 × 0.05 + 0.005 × 0.005)",
+    "option1": "0.252525",
+    "option2": "0.250025",
+    "option3": "0.252525",
+    "option4": "0.252005",
+    "correctAnswer": "0.252525",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 56,
+    "text": "What is the value of 15 × 8?",
+    "option1": "100",
+    "option2": "110",
+    "option3": "120",
+    "option4": "130",
+    "correctAnswer": "120",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 57,
+    "text": "What is the value of π (pi) to two decimal places?",
+    "option1": "3.12",
+    "option2": "3.14",
+    "option3": "3.16",
+    "option4": "3.18",
+    "correctAnswer": "3.14",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 58,
+    "text": "Which of these numbers is divisible by both 3 and 4?",
+    "option1": "126",
+    "option2": "132",
+    "option3": "142",
+    "option4": "148",
+    "correctAnswer": "132",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 59,
+    "text": "If 20% of a number is 50, what is 40% of the same number?",
+    "option1": "75",
+    "option2": "100",
+    "option3": "125",
+    "option4": "150",
+    "correctAnswer": "100",
+    "category": "WB SSCClark C 2025"
+  },
+  {
+    "id": 60,
+    "text": "A and B together can complete a work in 12 days. If A alone can do it in 20 days, how many days will B alone take?",
+    "option1": "25 days",
+    "option2": "28 days",
+    "option3": "30 days",
+    "option4": "32 days",
+    "correctAnswer": "30 days",
+    "category": "WB SSCClark C 2025"
+  }
+]
