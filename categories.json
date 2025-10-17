@@ -3,18 +3,18 @@
     "id": "Mathematics",
     "name": "Mathematics",
     "description": "Math practice questions",
-    "questionCount": 01
+    "questionCount": 10
   },
   {
     "id": "English", 
     "name": "English",
     "description": "English grammar and vocabulary",
-    "questionCount": 01
+    "questionCount": 10
   },
   {
     "id": "Geography",
     "name": "Geography",
     "description": "World geography and Indian geography",
-    "questionCount": 05
+    "questionCount": 10
   }
 ]
