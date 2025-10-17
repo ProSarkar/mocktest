@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "text": "What is 15 × 8?",
+    "option1": "100",
+    "option2": "110",
+    "option3": "120",
+    "option4": "130",
+    "correctAnswer": "120",
+    "category": "Mathematics"
+  },
+  {
+    "id": 2,
+    "text": "What is the value of π (pi) to two decimal places?",
+    "option1": "3.12",
+    "option2": "3.14",
+    "option3": "3.16",
+    "option4": "3.18",
+    "correctAnswer": "3.14",
+    "category": "Mathematics"
+  },
+  {
+    "id": 3,
+    "text": "What is 15% of 200?",
+    "option1": "15",
+    "option2": "20",
+    "option3": "30",
+    "option4": "25",
+    "correctAnswer": "30",
+    "category": "Mathematics"
+  },
+  {
+    "id": 4,
+    "text": "What is the synonym of 'Benevolent'?",
+    "option1": "Cruel",
+    "option2": "Kind",
+    "option3": "Stingy",
+    "option4": "Selfish",
+    "correctAnswer": "Kind",
+    "category": "English"
+  },
+  {
+    "id": 5,
+    "text": "Choose the correct sentence:",
+    "option1": "She go to school every day.",
+    "option2": "She goes to school every day.",
+    "option3": "She going to school every day.",
+    "option4": "She gone to school every day.",
+    "correctAnswer": "She goes to school every day.",
+    "category": "English"
+  },
+  {
+    "id": 6,
+    "text": "What is the antonym of 'Ancient'?",
+    "option1": "Old",
+    "option2": "Modern",
+    "option3": "Historic",
+    "option4": "Classical",
+    "correctAnswer": "Modern",
+    "category": "English"
+  },
+  {
+    "id": 7,
+    "text": "Which planet is known as the 'Red Planet'?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Mars",
+    "category": "Science"
+  },
+  {
+    "id": 8,
+    "text": "What is the chemical symbol for Gold?",
+    "option1": "Go",
+    "option2": "Gd",
+    "option3": "Au",
+    "option4": "Ag",
+    "correctAnswer": "Au",
+    "category": "Science"
+  },
+  {
+    "id": 9,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "correctAnswer": "Carbon Dioxide",
+    "category": "Science"
+  },
+  {
+    "id": 10,
+    "text": "Who was the first Prime Minister of India?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Jawaharlal Nehru",
+    "option3": "Sardar Patel",
+    "option4": "Rajendra Prasad",
+    "correctAnswer": "Jawaharlal Nehru",
+    "category": "History"
+  },
+  {
+    "id": 11,
+    "text": "In which year did India gain independence?",
+    "option1": "1945",
+    "option2": "1947",
+    "option3": "1950",
+    "option4": "1942",
+    "correctAnswer": "1947",
+    "category": "History"
+  },
+  {
+    "id": 12,
+    "text": "The 'Dandi March' was led by which leader?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Mahatma Gandhi",
+    "option3": "Subhash Chandra Bose",
+    "option4": "Bhagat Singh",
+    "correctAnswer": "Mahatma Gandhi",
+    "category": "History"
+  },
+  {
+    "id": 13,
+    "text": "Which is the longest river in India?",
+    "option1": "Yamuna",
+    "option2": "Brahmaputra",
+    "option3": "Godavari",
+    "option4": "Ganga",
+    "correctAnswer": "Ganga",
+    "category": "Geography"
+  },
+  {
+    "id": 14,
+    "text": "Which state in India has the longest coastline?",
+    "option1": "Kerala",
+    "option2": "Maharashtra",
+    "option3": "Gujarat",
+    "option4": "Tamil Nadu",
+    "correctAnswer": "Gujarat",
+    "category": "Geography"
+  },
+  {
+    "id": 15,
+    "text": "Mount Everest is located in which mountain range?",
+    "option1": "Alps",
+    "option2": "Himalayas",
+    "option3": "Andes",
+    "option4": "Rockies",
+    "correctAnswer": "Himalayas",
+    "category": "Geography"
+  }
+]
