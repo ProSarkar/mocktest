@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "text": "What is 15 × 8?",
+    "option1": "100",
+    "option2": "110",
+    "option3": "120",
+    "option4": "130",
+    "correctAnswer": "120",
+    "category": "math",
+    "difficulty": "easy",
+    "explanation": "15 multiplied by 8 equals 120."
+  },
+  {
+    "id": 102,
+    "text": "What is the value of π (pi) to two decimal places?",
+    "option1": "3.12",
+    "option2": "3.14",
+    "option3": "3.16",
+    "option4": "3.18",
+    "correctAnswer": "3.14",
+    "category": "math",
+    "difficulty": "easy",
+    "explanation": "The value of π is approximately 3.14159, which rounds to 3.14 to two decimal places."
+  }
+]
