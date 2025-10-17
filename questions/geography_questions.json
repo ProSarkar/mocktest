@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "Which is the longest river in India?",
+    "option1": "Yamuna",
+    "option2": "Brahmaputra",
+    "option3": "Godavari",
+    "option4": "Ganga",
+    "correctAnswer": "Ganga",
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "text": "Which state in India has the longest coastline?",
+    "option1": "Kerala",
+    "option2": "Maharashtra",
+    "option3": "Gujarat",
+    "option4": "Tamil Nadu",
+    "correctAnswer": "Gujarat",
+    "category": "Geography"
+  },
+  {
+    "id": 3,
+    "text": "Mount Everest is located in which mountain range?",
+    "option1": "Alps",
+    "option2": "Himalayas",
+    "option3": "Andes",
+    "option4": "Rockies",
+    "correctAnswer": "Himalayas",
+    "category": "Geography"
+  },
+  {
+    "id": 4,
+    "text": "Which is the largest desert in the world?",
+    "option1": "Gobi Desert",
+    "option2": "Sahara Desert",
+    "option3": "Arabian Desert",
+    "option4": "Kalahari Desert",
+    "correctAnswer": "Sahara Desert",
+    "category": "Geography"
+  },
+  {
+    "id": 5,
+    "text": "Which city is known as the 'Pink City' of India?",
+    "option1": "Jaipur",
+    "option2": "Jodhpur",
+    "option3": "Udaipur",
+    "option4": "Bikaner",
+    "correctAnswer": "Jaipur",
+    "category": "Geography"
+  }
+]
