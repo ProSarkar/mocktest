@@ -3,24 +3,24 @@
     "id": "math",
     "name": "Mathematics",
     "description": "Basic mathematics questions",
-    "questionCount": 10
+    "questionCount": 20
   },
   {
     "id": "science",
     "name": "Science",
     "description": "General science questions",
-    "questionCount": 8
+    "questionCount": 20
   },
   {
     "id": "history",
     "name": "History",
     "description": "World history questions",
-    "questionCount": 6
+    "questionCount": 20
   },
   {
     "id": "gk",
     "name": "General Knowledge",
     "description": "General knowledge questions",
-    "questionCount": 12
+    "questionCount": 20
   }
 ]
