@@ -1,47 +1,47 @@
 [
   {
     "id": 1,
-    "text": "What is 2 + 2?",
-    "option1": "3",
-    "option2": "4",
-    "option3": "5",
-    "option4": "6",
-    "correctAnswer": "4",
+    "text": "What is 15 × 8?",
+    "option1": "100",
+    "option2": "110",
+    "option3": "120",
+    "option4": "130",
+    "correctAnswer": "120",
     "category": "Mathematics"
   },
   {
     "id": 2,
-    "text": "What is the capital of France?",
-    "option1": "London",
-    "option2": "Berlin",
-    "option3": "Paris",
-    "option4": "Madrid",
-    "correctAnswer": "Paris",
-    "category": "General Knowledge"
+    "text": "What is the value of π (pi) to two decimal places?",
+    "option1": "3.12",
+    "option2": "3.14",
+    "option3": "3.16",
+    "option4": "3.18",
+    "correctAnswer": "3.14",
+    "category": "Mathematics"
   },
   {
     "id": 3,
-    "text": "Which planet is known as the Red Planet?",
-    "option1": "Earth",
-    "option2": "Mars",
-    "option3": "Jupiter",
-    "option4": "Venus",
-    "correctAnswer": "Mars",
-    "category": "Science"
+    "text": "Solve: 45 ÷ 9 + 7 × 2",
+    "option1": "15",
+    "option2": "17",
+    "option3": "19",
+    "option4": "21",
+    "correctAnswer": "19",
+    "category": "Mathematics"
   },
   {
     "id": 4,
-    "text": "Who wrote 'Romeo and Juliet'?",
-    "option1": "Charles Dickens",
-    "option2": "William Shakespeare",
-    "option3": "Jane Austen",
-    "option4": "Mark Twain",
-    "correctAnswer": "William Shakespeare",
-    "category": "History"
+    "text": "What is 25% of 200?",
+    "option1": "25",
+    "option2": "50",
+    "option3": "75",
+    "option4": "100",
+    "correctAnswer": "50",
+    "category": "Mathematics"
   },
   {
     "id": 5,
-    "text": "What is the square root of 64?",
+    "text": "If x + 7 = 15, what is x?",
     "option1": "6",
     "option2": "7",
     "option3": "8",
@@ -51,7 +51,317 @@
   },
   {
     "id": 6,
-    "text": "Which gas do plants absorb from the atmosphere?",
+    "text": "What is the area of a rectangle with length 8cm and width 5cm?",
+    "option1": "13 cm²",
+    "option2": "26 cm²",
+    "option3": "40 cm²",
+    "option4": "45 cm²",
+    "correctAnswer": "40 cm²",
+    "category": "Mathematics"
+  },
+  {
+    "id": 7,
+    "text": "What is 3² + 4²?",
+    "option1": "7",
+    "option2": "12",
+    "option3": "25",
+    "option4": "49",
+    "correctAnswer": "25",
+    "category": "Mathematics"
+  },
+  {
+    "id": 8,
+    "text": "Convert 3/4 to decimal",
+    "option1": "0.25",
+    "option2": "0.50",
+    "option3": "0.75",
+    "option4": "1.25",
+    "correctAnswer": "0.75",
+    "category": "Mathematics"
+  },
+  {
+    "id": 9,
+    "text": "What is the next number: 2, 4, 8, 16, ?",
+    "option1": "24",
+    "option2": "28",
+    "option3": "32",
+    "option4": "36",
+    "correctAnswer": "32",
+    "category": "Mathematics"
+  },
+  {
+    "id": 10,
+    "text": "Solve: 12 × (4 + 3)",
+    "option1": "72",
+    "option2": "84",
+    "option3": "96",
+    "option4": "108",
+    "correctAnswer": "84",
+    "category": "Mathematics"
+  },
+  {
+    "id": 11,
+    "text": "What is 150 ÷ 0.5?",
+    "option1": "75",
+    "option2": "150",
+    "option3": "300",
+    "option4": "450",
+    "correctAnswer": "300",
+    "category": "Mathematics"
+  },
+  {
+    "id": 12,
+    "text": "If a triangle has angles 60° and 70°, what is the third angle?",
+    "option1": "40°",
+    "option2": "50°",
+    "option3": "60°",
+    "option4": "70°",
+    "correctAnswer": "50°",
+    "category": "Mathematics"
+  },
+  {
+    "id": 13,
+    "text": "What is 7.5 × 4?",
+    "option1": "28",
+    "option2": "29",
+    "option3": "30",
+    "option4": "31",
+    "correctAnswer": "30",
+    "category": "Mathematics"
+  },
+  {
+    "id": 14,
+    "text": "What is the perimeter of a square with side 6cm?",
+    "option1": "12 cm",
+    "option2": "18 cm",
+    "option3": "24 cm",
+    "option4": "36 cm",
+    "correctAnswer": "24 cm",
+    "category": "Mathematics"
+  },
+  {
+    "id": 15,
+    "text": "Simplify: 3/8 + 1/4",
+    "option1": "1/2",
+    "option2": "5/8",
+    "option3": "3/4",
+    "option4": "7/8",
+    "correctAnswer": "5/8",
+    "category": "Mathematics"
+  },
+  {
+    "id": 16,
+    "text": "What is 15²?",
+    "option1": "150",
+    "option2": "200",
+    "option3": "225",
+    "option4": "250",
+    "correctAnswer": "225",
+    "category": "Mathematics"
+  },
+  {
+    "id": 17,
+    "text": "Convert 0.625 to fraction",
+    "option1": "3/8",
+    "option2": "5/8",
+    "option3": "7/8",
+    "option4": "9/8",
+    "correctAnswer": "5/8",
+    "category": "Mathematics"
+  },
+  {
+    "id": 18,
+    "text": "What is 20% of 150?",
+    "option1": "20",
+    "option2": "25",
+    "option3": "30",
+    "option4": "35",
+    "correctAnswer": "30",
+    "category": "Mathematics"
+  },
+  {
+    "id": 19,
+    "text": "Solve: 48 ÷ 6 × 2",
+    "option1": "12",
+    "option2": "14",
+    "option3": "16",
+    "option4": "18",
+    "correctAnswer": "16",
+    "category": "Mathematics"
+  },
+  {
+    "id": 20,
+    "text": "What is the average of 12, 15, 18, and 21?",
+    "option1": "15",
+    "option2": "16",
+    "option3": "16.5",
+    "option4": "17",
+    "correctAnswer": "16.5",
+    "category": "Mathematics"
+  },
+  {
+    "id": 21,
+    "text": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Argon",
+    "correctAnswer": "Nitrogen",
+    "category": "Science"
+  },
+  {
+    "id": 22,
+    "text": "What is the chemical symbol for gold?",
+    "option1": "Go",
+    "option2": "Gd",
+    "option3": "Au",
+    "option4": "Ag",
+    "correctAnswer": "Au",
+    "category": "Science"
+  },
+  {
+    "id": 23,
+    "text": "Which planet is known as the Red Planet?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Mars",
+    "category": "Science"
+  },
+  {
+    "id": 24,
+    "text": "What is the hardest natural substance on Earth?",
+    "option1": "Gold",
+    "option2": "Iron",
+    "option3": "Diamond",
+    "option4": "Platinum",
+    "correctAnswer": "Diamond",
+    "category": "Science"
+  },
+  {
+    "id": 25,
+    "text": "Which organ pumps blood throughout the body?",
+    "option1": "Liver",
+    "option2": "Lungs",
+    "option3": "Heart",
+    "option4": "Brain",
+    "correctAnswer": "Heart",
+    "category": "Science"
+  },
+  {
+    "id": 26,
+    "text": "What is H₂O commonly known as?",
+    "option1": "Hydrogen Peroxide",
+    "option2": "Water",
+    "option3": "Hydrochloric Acid",
+    "option4": "Ammonia",
+    "correctAnswer": "Water",
+    "category": "Science"
+  },
+  {
+    "id": 27,
+    "text": "Which gas do plants release during photosynthesis?",
+    "option1": "Carbon Dioxide",
+    "option2": "Oxygen",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "correctAnswer": "Oxygen",
+    "category": "Science"
+  },
+  {
+    "id": 28,
+    "text": "What is the speed of light in vacuum?",
+    "option1": "300,000 km/s",
+    "option2": "150,000 km/s",
+    "option3": "500,000 km/s",
+    "option4": "1,000,000 km/s",
+    "correctAnswer": "300,000 km/s",
+    "category": "Science"
+  },
+  {
+    "id": 29,
+    "text": "Which metal is liquid at room temperature?",
+    "option1": "Iron",
+    "option2": "Mercury",
+    "option3": "Copper",
+    "option4": "Aluminum",
+    "correctAnswer": "Mercury",
+    "category": "Science"
+  },
+  {
+    "id": 30,
+    "text": "What is the main component of the Sun?",
+    "option1": "Oxygen",
+    "option2": "Helium",
+    "option3": "Hydrogen",
+    "option4": "Carbon",
+    "correctAnswer": "Hydrogen",
+    "category": "Science"
+  },
+  {
+    "id": 31,
+    "text": "Which part of the plant conducts photosynthesis?",
+    "option1": "Root",
+    "option2": "Stem",
+    "option3": "Leaf",
+    "option4": "Flower",
+    "correctAnswer": "Leaf",
+    "category": "Science"
+  },
+  {
+    "id": 32,
+    "text": "What is the atomic number of carbon?",
+    "option1": "4",
+    "option2": "6",
+    "option3": "8",
+    "option4": "12",
+    "correctAnswer": "6",
+    "category": "Science"
+  },
+  {
+    "id": 33,
+    "text": "Which force keeps planets in orbit around the Sun?",
+    "option1": "Magnetic Force",
+    "option2": "Gravitational Force",
+    "option3": "Electromagnetic Force",
+    "option4": "Nuclear Force",
+    "correctAnswer": "Gravitational Force",
+    "category": "Science"
+  },
+  {
+    "id": 34,
+    "text": "What is the chemical formula for table salt?",
+    "option1": "NaCl",
+    "option2": "HCl",
+    "option3": "H₂O",
+    "option4": "CO₂",
+    "correctAnswer": "NaCl",
+    "category": "Science"
+  },
+  {
+    "id": 35,
+    "text": "Which blood cells fight infection?",
+    "option1": "Red Blood Cells",
+    "option2": "White Blood Cells",
+    "option3": "Platelets",
+    "option4": "Plasma",
+    "correctAnswer": "White Blood Cells",
+    "category": "Science"
+  },
+  {
+    "id": 36,
+    "text": "What is the unit of electric current?",
+    "option1": "Volt",
+    "option2": "Ampere",
+    "option3": "Ohm",
+    "option4": "Watt",
+    "correctAnswer": "Ampere",
+    "category": "Science"
+  },
+  {
+    "id": 37,
+    "text": "Which gas is used by plants for photosynthesis?",
     "option1": "Oxygen",
     "option2": "Carbon Dioxide",
     "option3": "Nitrogen",
@@ -60,7 +370,37 @@
     "category": "Science"
   },
   {
-    "id": 7,
+    "id": 38,
+    "text": "What is the closest star to Earth?",
+    "option1": "Proxima Centauri",
+    "option2": "Sirius",
+    "option3": "Sun",
+    "option4": "Alpha Centauri",
+    "correctAnswer": "Sun",
+    "category": "Science"
+  },
+  {
+    "id": 39,
+    "text": "Which element has the chemical symbol 'Fe'?",
+    "option1": "Fluorine",
+    "option2": "Iron",
+    "option3": "Francium",
+    "option4": "Fermium",
+    "correctAnswer": "Iron",
+    "category": "Science"
+  },
+  {
+    "id": 40,
+    "text": "What is the process of a liquid turning into gas called?",
+    "option1": "Condensation",
+    "option2": "Evaporation",
+    "option3": "Sublimation",
+    "option4": "Freezing",
+    "correctAnswer": "Evaporation",
+    "category": "Science"
+  },
+  {
+    "id": 41,
     "text": "In which year did World War II end?",
     "option1": "1943",
     "option2": "1944",
@@ -70,33 +410,393 @@
     "category": "History"
   },
   {
-    "id": 8,
-    "text": "What is the largest ocean on Earth?",
+    "id": 42,
+    "text": "Who was the first President of the United States?",
+    "option1": "Thomas Jefferson",
+    "option2": "Abraham Lincoln",
+    "option3": "George Washington",
+    "option4": "John Adams",
+    "correctAnswer": "George Washington",
+    "category": "History"
+  },
+  {
+    "id": 43,
+    "text": "Which ancient civilization built the pyramids?",
+    "option1": "Romans",
+    "option2": "Greeks",
+    "option3": "Egyptians",
+    "option4": "Mayans",
+    "correctAnswer": "Egyptians",
+    "category": "History"
+  },
+  {
+    "id": 44,
+    "text": "When did the Titanic sink?",
+    "option1": "1905",
+    "option2": "1912",
+    "option3": "1918",
+    "option4": "1923",
+    "correctAnswer": "1912",
+    "category": "History"
+  },
+  {
+    "id": 45,
+    "text": "Who invented the telephone?",
+    "option1": "Thomas Edison",
+    "option2": "Alexander Graham Bell",
+    "option3": "Nikola Tesla",
+    "option4": "Guglielmo Marconi",
+    "correctAnswer": "Alexander Graham Bell",
+    "category": "History"
+  },
+  {
+    "id": 46,
+    "text": "Which empire was ruled by Julius Caesar?",
+    "option1": "Greek Empire",
+    "option2": "Roman Empire",
+    "option3": "Persian Empire",
+    "option4": "Egyptian Empire",
+    "correctAnswer": "Roman Empire",
+    "category": "History"
+  },
+  {
+    "id": 47,
+    "text": "When did the American Civil War begin?",
+    "option1": "1776",
+    "option2": "1812",
+    "option3": "1861",
+    "option4": "1898",
+    "correctAnswer": "1861",
+    "category": "History"
+  },
+  {
+    "id": 48,
+    "text": "Who wrote the 'I Have a Dream' speech?",
+    "option1": "Malcolm X",
+    "option2": "Martin Luther King Jr.",
+    "option3": "Rosa Parks",
+    "option4": "Barack Obama",
+    "correctAnswer": "Martin Luther King Jr.",
+    "category": "History"
+  },
+  {
+    "id": 49,
+    "text": "Which country was the first to land on the moon?",
+    "option1": "Soviet Union",
+    "option2": "United States",
+    "option3": "China",
+    "option4": "Japan",
+    "correctAnswer": "United States",
+    "category": "History"
+  },
+  {
+    "id": 50,
+    "text": "When was the Berlin Wall demolished?",
+    "option1": "1985",
+    "option2": "1989",
+    "option3": "1991",
+    "option4": "1995",
+    "correctAnswer": "1989",
+    "category": "History"
+  },
+  {
+    "id": 51,
+    "text": "Who discovered America in 1492?",
+    "option1": "Vasco da Gama",
+    "option2": "Christopher Columbus",
+    "option3": "Ferdinand Magellan",
+    "option4": "Marco Polo",
+    "correctAnswer": "Christopher Columbus",
+    "category": "History"
+  },
+  {
+    "id": 52,
+    "text": "Which war was fought between North and South Korea?",
+    "option1": "Vietnam War",
+    "option2": "Korean War",
+    "option3": "Cold War",
+    "option4": "World War I",
+    "correctAnswer": "Korean War",
+    "category": "History"
+  },
+  {
+    "id": 53,
+    "text": "Who was the first woman to win a Nobel Prize?",
+    "option1": "Marie Curie",
+    "option2": "Rosalind Franklin",
+    "option3": "Jane Goodall",
+    "option4": "Mother Teresa",
+    "correctAnswer": "Marie Curie",
+    "category": "History"
+  },
+  {
+    "id": 54,
+    "text": "When did the French Revolution begin?",
+    "option1": "1776",
+    "option2": "1789",
+    "option3": "1799",
+    "option4": "1812",
+    "correctAnswer": "1789",
+    "category": "History"
+  },
+  {
+    "id": 55,
+    "text": "Which ancient wonder was located in Babylon?",
+    "option1": "Great Pyramid",
+    "option2": "Hanging Gardens",
+    "option3": "Colossus of Rhodes",
+    "option4": "Lighthouse of Alexandria",
+    "correctAnswer": "Hanging Gardens",
+    "category": "History"
+  },
+  {
+    "id": 56,
+    "text": "Who was the first Emperor of Rome?",
+    "option1": "Julius Caesar",
+    "option2": "Augustus",
+    "option3": "Nero",
+    "option4": "Constantine",
+    "correctAnswer": "Augustus",
+    "category": "History"
+  },
+  {
+    "id": 57,
+    "text": "When did World War I begin?",
+    "option1": "1912",
+    "option2": "1914",
+    "option3": "1916",
+    "option4": "1918",
+    "correctAnswer": "1914",
+    "category": "History"
+  },
+  {
+    "id": 58,
+    "text": "Which civilization invented paper?",
+    "option1": "Egyptian",
+    "option2": "Roman",
+    "option3": "Chinese",
+    "option4": "Greek",
+    "correctAnswer": "Chinese",
+    "category": "History"
+  },
+  {
+    "id": 59,
+    "text": "Who was the first man in space?",
+    "option1": "Neil Armstrong",
+    "option2": "Yuri Gagarin",
+    "option3": "John Glenn",
+    "option4": "Alan Shepard",
+    "correctAnswer": "Yuri Gagarin",
+    "category": "History"
+  },
+  {
+    "id": 60,
+    "text": "When did India gain independence from Britain?",
+    "option1": "1945",
+    "option2": "1947",
+    "option3": "1950",
+    "option4": "1955",
+    "correctAnswer": "1947",
+    "category": "History"
+  },
+  {
+    "id": 61,
+    "text": "What is the capital of Australia?",
+    "option1": "Sydney",
+    "option2": "Melbourne",
+    "option3": "Canberra",
+    "option4": "Perth",
+    "correctAnswer": "Canberra",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 62,
+    "text": "Which is the largest desert in the world?",
+    "option1": "Sahara Desert",
+    "option2": "Arabian Desert",
+    "option3": "Gobi Desert",
+    "option4": "Kalahari Desert",
+    "correctAnswer": "Sahara Desert",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 63,
+    "text": "How many continents are there?",
+    "option1": "5",
+    "option2": "6",
+    "option3": "7",
+    "option4": "8",
+    "correctAnswer": "7",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 64,
+    "text": "What is the currency of Japan?",
+    "option1": "Yuan",
+    "option2": "Won",
+    "option3": "Yen",
+    "option4": "Ringgit",
+    "correctAnswer": "Yen",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 65,
+    "text": "Which ocean is the largest?",
     "option1": "Atlantic Ocean",
     "option2": "Indian Ocean",
-    "option3": "Arctic Ocean",
-    "option4": "Pacific Ocean",
+    "option3": "Pacific Ocean",
+    "option4": "Arctic Ocean",
     "correctAnswer": "Pacific Ocean",
     "category": "General Knowledge"
   },
   {
-    "id": 9,
-    "text": "Solve: 15 ÷ 3 × 2",
-    "option1": "5",
-    "option2": "10",
-    "option3": "15",
-    "option4": "20",
-    "correctAnswer": "10",
-    "category": "Mathematics"
+    "id": 66,
+    "text": "What is the tallest mountain in the world?",
+    "option1": "K2",
+    "option2": "Mount Everest",
+    "option3": "Kangchenjunga",
+    "option4": "Makalu",
+    "correctAnswer": "Mount Everest",
+    "category": "General Knowledge"
   },
   {
-    "id": 10,
-    "text": "Which element has the chemical symbol 'O'?",
-    "option1": "Gold",
-    "option2": "Oxygen",
-    "option3": "Osmium",
-    "option4": "Oganesson",
-    "correctAnswer": "Oxygen",
-    "category": "Science"
+    "id": 67,
+    "text": "Which country has the largest population?",
+    "option1": "India",
+    "option2": "United States",
+    "option3": "China",
+    "option4": "Indonesia",
+    "correctAnswer": "China",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 68,
+    "text": "What is the capital of Brazil?",
+    "option1": "Rio de Janeiro",
+    "option2": "São Paulo",
+    "option3": "Brasília",
+    "option4": "Salvador",
+    "correctAnswer": "Brasília",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 69,
+    "text": "Which language has the most native speakers?",
+    "option1": "English",
+    "option2": "Spanish",
+    "option3": "Hindi",
+    "option4": "Mandarin Chinese",
+    "correctAnswer": "Mandarin Chinese",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 70,
+    "text": "What is the smallest country in the world?",
+    "option1": "Monaco",
+    "option2": "Vatican City",
+    "option3": "San Marino",
+    "option4": "Liechtenstein",
+    "correctAnswer": "Vatican City",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 71,
+    "text": "Which river is the longest in the world?",
+    "option1": "Amazon River",
+    "option2": "Nile River",
+    "option3": "Yangtze River",
+    "option4": "Mississippi River",
+    "correctAnswer": "Nile River",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 72,
+    "text": "What is the capital of Canada?",
+    "option1": "Toronto",
+    "option2": "Vancouver",
+    "option3": "Ottawa",
+    "option4": "Montreal",
+    "correctAnswer": "Ottawa",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 73,
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "option1": "China",
+    "option2": "South Korea",
+    "option3": "Japan",
+    "option4": "Thailand",
+    "correctAnswer": "Japan",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 74,
+    "text": "What is the currency of the United Kingdom?",
+    "option1": "Euro",
+    "option2": "Dollar",
+    "option3": "Pound Sterling",
+    "option4": "Franc",
+    "correctAnswer": "Pound Sterling",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 75,
+    "text": "Which city is known as the Big Apple?",
+    "option1": "Chicago",
+    "option2": "Los Angeles",
+    "option3": "New York City",
+    "option4": "Boston",
+    "correctAnswer": "New York City",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 76,
+    "text": "What is the largest mammal in the world?",
+    "option1": "African Elephant",
+    "option2": "Blue Whale",
+    "option3": "Giraffe",
+    "option4": "Polar Bear",
+    "correctAnswer": "Blue Whale",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 77,
+    "text": "Which country is both a continent and a country?",
+    "option1": "New Zealand",
+    "option2": "Australia",
+    "option3": "Greenland",
+    "option4": "Madagascar",
+    "correctAnswer": "Australia",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 78,
+    "text": "What is the capital of Egypt?",
+    "option1": "Alexandria",
+    "option2": "Cairo",
+    "option3": "Luxor",
+    "option4": "Giza",
+    "correctAnswer": "Cairo",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 79,
+    "text": "Which planet is known as the Evening Star?",
+    "option1": "Mars",
+    "option2": "Venus",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Venus",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 80,
+    "text": "What is the national animal of India?",
+    "option1": "Lion",
+    "option2": "Elephant",
+    "option3": "Tiger",
+    "option4": "Peacock",
+    "correctAnswer": "Tiger",
+    "category": "General Knowledge"
   }
 ]
