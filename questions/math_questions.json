@@ -7,7 +7,7 @@
     "option3": "120",
     "option4": "130",
     "correctAnswer": "120",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "option3": "3.16",
     "option4": "3.18",
     "correctAnswer": "3.14",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "option3": "30",
     "option4": "25",
     "correctAnswer": "30",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "option3": "₹700",
     "option4": "₹750",
     "correctAnswer": "₹640",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "option3": "15",
     "option4": "18",
     "correctAnswer": "10",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "option3": "60 km/h",
     "option4": "65 km/h",
     "correctAnswer": "60 km/h",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "option3": "23",
     "option4": "25",
     "correctAnswer": "23",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "option3": "6",
     "option4": "6.5",
     "correctAnswer": "5.5",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "option3": "12%",
     "option4": "15%",
     "correctAnswer": "10%",
-    "category": "math"
+    "category": "Mathematics"
   },
   {
     "id": 10,
@@ -97,6 +97,6 @@
     "option3": "10 days",
     "option4": "12 days",
     "correctAnswer": "10 days",
-    "category": "math"
+    "category": "Mathematics"
   }
 ]
