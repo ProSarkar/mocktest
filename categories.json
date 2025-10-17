@@ -1,5 +1,11 @@
 [
   {
+    "id": "clark",
+    "name": "Clark C Exam 2025",
+    "description": "General knowledge questions",
+    "questionCount": 60
+  },
+  {
     "id": "math",
     "name": "Mathematics",
     "description": "Basic mathematics questions",
