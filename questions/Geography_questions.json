@@ -48,5 +48,105 @@
     "option4": "Bikaner",
     "correctAnswer": "Jaipur",
     "category": "Geography"
+  },
+  {
+    "id": 6,
+    "text": "Which is the smallest continent by land area?",
+    "option1": "Europe",
+    "option2": "Australia",
+    "option3": "Antarctica",
+    "option4": "South America",
+    "correctAnswer": "Australia",
+    "category": "Geography"
+  },
+  {
+    "id": 7,
+    "text": "The Amazon River flows through which continent?",
+    "option1": "Africa",
+    "option2": "Asia",
+    "option3": "South America",
+    "option4": "North America",
+    "correctAnswer": "South America",
+    "category": "Geography"
+  },
+  {
+    "id": 8,
+    "text": "Which country has the largest population in the world?",
+    "option1": "India",
+    "option2": "United States",
+    "option3": "China",
+    "option4": "Indonesia",
+    "correctAnswer": "China",
+    "category": "Geography"
+  },
+  {
+    "id": 9,
+    "text": "What is the capital of Australia?",
+    "option1": "Sydney",
+    "option2": "Melbourne",
+    "option3": "Canberra",
+    "option4": "Perth",
+    "correctAnswer": "Canberra",
+    "category": "Geography"
+  },
+  {
+    "id": 10,
+    "text": "Which ocean is the largest and deepest?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Arctic Ocean",
+    "option4": "Pacific Ocean",
+    "correctAnswer": "Pacific Ocean",
+    "category": "Geography"
+  },
+  {
+    "id": 11,
+    "text": "The Great Barrier Reef is located off the coast of which country?",
+    "option1": "Brazil",
+    "option2": "Australia",
+    "option3": "Mexico",
+    "option4": "Thailand",
+    "correctAnswer": "Australia",
+    "category": "Geography"
+  },
+  {
+    "id": 12,
+    "text": "Which African country is known as the 'Rainbow Nation'?",
+    "option1": "Kenya",
+    "option2": "Nigeria",
+    "option3": "South Africa",
+    "option4": "Egypt",
+    "correctAnswer": "South Africa",
+    "category": "Geography"
+  },
+  {
+    "id": 13,
+    "text": "Mount Fuji is an active volcano located in which country?",
+    "option1": "China",
+    "option2": "South Korea",
+    "option3": "Japan",
+    "option4": "Philippines",
+    "correctAnswer": "Japan",
+    "category": "Geography"
+  },
+  {
+    "id": 14,
+    "text": "Which river is known as the 'Sorrow of China'?",
+    "option1": "Yangtze River",
+    "option2": "Yellow River",
+    "option3": "Mekong River",
+    "option4": "Pearl River",
+    "correctAnswer": "Yellow River",
+    "category": "Geography"
+  },
+  {
+    "id": 15,
+    "text": "The city of Istanbul is located in which country?",
+    "option1": "Greece",
+    "option2": "Turkey",
+    "option3": "Italy",
+    "option4": "Egypt",
+    "correctAnswer": "Turkey",
+    "category": "Geography"
   }
 ]
