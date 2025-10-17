@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "Who is known as the 'Father of the Indian Constitution'?",
+    "option1": "Mahatma Gandhi",
+    "option2": "B.R. Ambedkar",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Sardar Patel",
+    "correctAnswer": "B.R. Ambedkar",
+    "category": "clark",
+    "difficulty": "easy",
+    "explanation": "Dr. B.R. Ambedkar was the chairman of the drafting committee of the Indian Constitution."
+  },
+  {
+    "id": 2,
+    "text": "The 'Dandi March' was associated with which major historical event?",
+    "option1": "Non-Cooperation Movement",
+    "option2": "Quit India Movement",
+    "option3": "Civil Disobedience Movement",
+    "option4": "Swadeshi Movement",
+    "correctAnswer": "Civil Disobedience Movement",
+    "category": "clark",
+    "difficulty": "medium",
+    "explanation": "The Dandi March in 1930 was a key part of the Civil Disobedience Movement against the British salt tax."
+  }
+]
