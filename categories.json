@@ -1,66 +1,14 @@
 [
   {
-    "id": "clark",
-    "name": "WB SSCClark C 2025",
-    "description": "General knowledge questions for WB SSC Clark Exam 2025",
-    "questionCount": 60,
-    "icon": "📚",
-    "color": "#2196F3"
-  },
-  {
     "id": "math",
     "name": "Mathematics",
-    "description": "Basic mathematics questions",
-    "questionCount": 20,
-    "icon": "➗",
-    "color": "#FF9800"
+    "description": "Math practice questions",
+    "questionCount": 50
   },
   {
-    "id": "science",
-    "name": "Science",
-    "description": "General science questions",
-    "questionCount": 20,
-    "icon": "🔬",
-    "color": "#4CAF50"
-  },
-  {
-    "id": "history",
-    "name": "History",
-    "description": "World history questions",
-    "questionCount": 20,
-    "icon": "📜",
-    "color": "#795548"
-  },
-  {
-    "id": "gk",
-    "name": "General Knowledge",
-    "description": "General knowledge questions",
-    "questionCount": 20,
-    "icon": "🌍",
-    "color": "#9C27B0"
-  },
-  {
-    "id": "english",
-    "name": "General English",
-    "description": "English grammar and vocabulary questions",
-    "questionCount": 20,
-    "icon": "🔤",
-    "color": "#F44336"
-  },
-  {
-    "id": "arithmetic",
-    "name": "Arithmetic",
-    "description": "Basic arithmetic and math problems",
-    "questionCount": 20,
-    "icon": "🧮",
-    "color": "#607D8B"
-  },
-  {
-    "id": "current_affairs",
-    "name": "Current Affairs",
-    "description": "Current events and recent happenings",
-    "questionCount": 20,
-    "icon": "📰",
-    "color": "#FF5722"
+    "id": "english", 
+    "name": "English",
+    "description": "English grammar and vocabulary",
+    "questionCount": 40
   }
 ]
