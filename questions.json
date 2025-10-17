@@ -1,4 +1,105 @@
-[
+
+  [
+  {
+    "id": 1,
+    "text": "What is 15 × 8?",
+    "option1": "100",
+    "option2": "110",
+    "option3": "120",
+    "option4": "130",
+    "correctAnswer": "120",
+    "category": "Mathematics"
+  },
+  {
+    "id": 2,
+    "text": "What is the value of π (pi) to two decimal places?",
+    "option1": "3.12",
+    "option2": "3.14",
+    "option3": "3.16",
+    "option4": "3.18",
+    "correctAnswer": "3.14",
+    "category": "Mathematics"
+  },
+  {
+    "id": 3,
+    "text": "What is 15% of 200?",
+    "option1": "15",
+    "option2": "20",
+    "option3": "30",
+    "option4": "25",
+    "correctAnswer": "30",
+    "category": "Mathematics"
+  },
+  {
+    "id": 4,
+    "text": "If a product is sold for ₹800 at a profit of 25%, what was its cost price?",
+    "option1": "₹600",
+    "option2": "₹640",
+    "option3": "₹700",
+    "option4": "₹750",
+    "correctAnswer": "₹640",
+    "category": "Mathematics"
+  },
+  {
+    "id": 5,
+    "text": "The ratio of boys to girls in a class is 3:2. If there are 15 boys, how many girls are there?",
+    "option1": "10",
+    "option2": "12",
+    "option3": "15",
+    "option4": "18",
+    "correctAnswer": "10",
+    "category": "Mathematics"
+  },
+  {
+    "id": 6,
+    "text": "A train travels 300 km in 5 hours. What is its speed?",
+    "option1": "50 km/h",
+    "option2": "55 km/h",
+    "option3": "60 km/h",
+    "option4": "65 km/h",
+    "correctAnswer": "60 km/h",
+    "category": "Mathematics"
+  },
+  {
+    "id": 7,
+    "text": "Simplify: 12 + 24 ÷ 3 × 2 - 5",
+    "option1": "15",
+    "option2": "20",
+    "option3": "23",
+    "option4": "25",
+    "correctAnswer": "23",
+    "category": "Mathematics"
+  },
+  {
+    "id": 8,
+    "text": "Find the average of first 10 natural numbers.",
+    "option1": "5",
+    "option2": "5.5",
+    "option3": "6",
+    "option4": "6.5",
+    "correctAnswer": "5.5",
+    "category": "Mathematics"
+  },
+  {
+    "id": 9,
+    "text": "A sum of ₹1000 becomes ₹1200 in 2 years at simple interest. What is the rate of interest?",
+    "option1": "8%",
+    "option2": "10%",
+    "option3": "12%",
+    "option4": "15%",
+    "correctAnswer": "10%",
+    "category": "Mathematics"
+  },
+  {
+    "id": 10,
+    "text": "If 15 men can complete a work in 12 days, how many days will 18 men take?",
+    "option1": "8 days",
+    "option2": "9 days",
+    "option3": "10 days",
+    "option4": "12 days",
+    "correctAnswer": "10 days",
+    "category": "Mathematics"
+  },
   {
     "id": 1,
     "text": "Who is known as the 'Father of the Indian Constitution'?",
