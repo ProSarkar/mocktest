@@ -2,12 +2,12 @@
   {
     "id": "clark",
     "name": "WB SSCClark C 2025",
-    "description": "General knowledge questions",
+    "description": "General knowledge questions for WB SSC Clark Exam 2025",
     "questionCount": 60
   },
   {
     "id": "math",
-    "name": "Mathematics",
+    "name": "Mathematics", 
     "description": "Basic mathematics questions",
     "questionCount": 20
   },
@@ -27,6 +27,24 @@
     "id": "gk",
     "name": "General Knowledge",
     "description": "General knowledge questions",
+    "questionCount": 20
+  },
+  {
+    "id": "english",
+    "name": "General English",
+    "description": "English grammar and vocabulary questions",
+    "questionCount": 20
+  },
+  {
+    "id": "arithmetic", 
+    "name": "Arithmetic",
+    "description": "Basic arithmetic and math problems",
+    "questionCount": 20
+  },
+  {
+    "id": "current_affairs",
+    "name": "Current Affairs",
+    "description": "Current events and recent happenings",
     "questionCount": 20
   }
 ]
