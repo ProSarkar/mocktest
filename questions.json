@@ -31,6 +31,76 @@
   },
   {
     "id": 4,
+    "text": "Solve for x: 2x + 5 = 17",
+    "option1": "x = 6",
+    "option2": "x = 7",
+    "option3": "x = 8",
+    "option4": "x = 9",
+    "correctAnswer": "x = 6",
+    "category": "Mathematics"
+  },
+  {
+    "id": 5,
+    "text": "What is the area of a rectangle with length 8cm and width 5cm?",
+    "option1": "13 cm²",
+    "option2": "40 cm²",
+    "option3": "26 cm²",
+    "option4": "45 cm²",
+    "correctAnswer": "40 cm²",
+    "category": "Mathematics"
+  },
+  {
+    "id": 6,
+    "text": "What is 7² + 3³?",
+    "option1": "58",
+    "option2": "76",
+    "option3": "49",
+    "option4": "52",
+    "correctAnswer": "76",
+    "category": "Mathematics"
+  },
+  {
+    "id": 7,
+    "text": "If a triangle has angles 60° and 70°, what is the third angle?",
+    "option1": "40°",
+    "option2": "50°",
+    "option3": "60°",
+    "option4": "70°",
+    "correctAnswer": "50°",
+    "category": "Mathematics"
+  },
+  {
+    "id": 8,
+    "text": "What is the square root of 144?",
+    "option1": "11",
+    "option2": "12",
+    "option3": "13",
+    "option4": "14",
+    "correctAnswer": "12",
+    "category": "Mathematics"
+  },
+  {
+    "id": 9,
+    "text": "Simplify: (4 + 3) × 2 - 5",
+    "option1": "9",
+    "option2": "11",
+    "option3": "13",
+    "option4": "15",
+    "correctAnswer": "9",
+    "category": "Mathematics"
+  },
+  {
+    "id": 10,
+    "text": "What is 3/4 of 100?",
+    "option1": "65",
+    "option2": "70",
+    "option3": "75",
+    "option4": "80",
+    "correctAnswer": "75",
+    "category": "Mathematics"
+  },
+  {
+    "id": 11,
     "text": "What is the synonym of 'Benevolent'?",
     "option1": "Cruel",
     "option2": "Kind",
@@ -40,7 +110,7 @@
     "category": "English"
   },
   {
-    "id": 5,
+    "id": 12,
     "text": "Choose the correct sentence:",
     "option1": "She go to school every day.",
     "option2": "She goes to school every day.",
@@ -50,7 +120,7 @@
     "category": "English"
   },
   {
-    "id": 6,
+    "id": 13,
     "text": "What is the antonym of 'Ancient'?",
     "option1": "Old",
     "option2": "Modern",
@@ -60,7 +130,77 @@
     "category": "English"
   },
   {
-    "id": 7,
+    "id": 14,
+    "text": "Identify the noun in: 'The quick brown fox jumps over the lazy dog'",
+    "option1": "quick",
+    "option2": "jumps",
+    "option3": "fox",
+    "option4": "over",
+    "correctAnswer": "fox",
+    "category": "English"
+  },
+  {
+    "id": 15,
+    "text": "What is the past tense of 'run'?",
+    "option1": "runned",
+    "option2": "ran",
+    "option3": "ranned",
+    "option4": "running",
+    "correctAnswer": "ran",
+    "category": "English"
+  },
+  {
+    "id": 16,
+    "text": "Which word is spelled correctly?",
+    "option1": "Recieve",
+    "option2": "Receive",
+    "option3": "Recieve",
+    "option4": "Receeve",
+    "correctAnswer": "Receive",
+    "category": "English"
+  },
+  {
+    "id": 17,
+    "text": "What is a group of lions called?",
+    "option1": "Herd",
+    "option2": "Pack",
+    "option3": "Pride",
+    "option4": "Flock",
+    "correctAnswer": "Pride",
+    "category": "English"
+  },
+  {
+    "id": 18,
+    "text": "Which is a compound word?",
+    "option1": "House",
+    "option2": "Football",
+    "option3": "Running",
+    "option4": "Beautiful",
+    "correctAnswer": "Football",
+    "category": "English"
+  },
+  {
+    "id": 19,
+    "text": "What is the plural of 'child'?",
+    "option1": "Childs",
+    "option2": "Children",
+    "option3": "Childes",
+    "option4": "Childern",
+    "correctAnswer": "Children",
+    "category": "English"
+  },
+  {
+    "id": 20,
+    "text": "Which sentence is in passive voice?",
+    "option1": "The cat chased the mouse.",
+    "option2": "The mouse was chased by the cat.",
+    "option3": "She sings a song.",
+    "option4": "They play football.",
+    "correctAnswer": "The mouse was chased by the cat.",
+    "category": "English"
+  },
+  {
+    "id": 21,
     "text": "Which planet is known as the 'Red Planet'?",
     "option1": "Venus",
     "option2": "Mars",
@@ -70,7 +210,7 @@
     "category": "Science"
   },
   {
-    "id": 8,
+    "id": 22,
     "text": "What is the chemical symbol for Gold?",
     "option1": "Go",
     "option2": "Gd",
@@ -80,7 +220,7 @@
     "category": "Science"
   },
   {
-    "id": 9,
+    "id": 23,
     "text": "Which gas do plants absorb during photosynthesis?",
     "option1": "Oxygen",
     "option2": "Carbon Dioxide",
@@ -90,7 +230,77 @@
     "category": "Science"
   },
   {
-    "id": 10,
+    "id": 24,
+    "text": "What is the hardest natural substance on Earth?",
+    "option1": "Gold",
+    "option2": "Iron",
+    "option3": "Diamond",
+    "option4": "Platinum",
+    "correctAnswer": "Diamond",
+    "category": "Science"
+  },
+  {
+    "id": 25,
+    "text": "Which organ pumps blood throughout the body?",
+    "option1": "Liver",
+    "option2": "Heart",
+    "option3": "Lungs",
+    "option4": "Brain",
+    "correctAnswer": "Heart",
+    "category": "Science"
+  },
+  {
+    "id": 26,
+    "text": "What is H₂O commonly known as?",
+    "option1": "Oxygen",
+    "option2": "Hydrogen",
+    "option3": "Water",
+    "option4": "Salt",
+    "correctAnswer": "Water",
+    "category": "Science"
+  },
+  {
+    "id": 27,
+    "text": "Which metal is liquid at room temperature?",
+    "option1": "Iron",
+    "option2": "Mercury",
+    "option3": "Copper",
+    "option4": "Aluminum",
+    "correctAnswer": "Mercury",
+    "category": "Science"
+  },
+  {
+    "id": 28,
+    "text": "What force pulls objects toward the Earth?",
+    "option1": "Magnetism",
+    "option2": "Gravity",
+    "option3": "Friction",
+    "option4": "Velocity",
+    "correctAnswer": "Gravity",
+    "category": "Science"
+  },
+  {
+    "id": 29,
+    "text": "Which gas do humans breathe out?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "correctAnswer": "Carbon Dioxide",
+    "category": "Science"
+  },
+  {
+    "id": 30,
+    "text": "What is the study of living organisms called?",
+    "option1": "Physics",
+    "option2": "Chemistry",
+    "option3": "Biology",
+    "option4": "Geology",
+    "correctAnswer": "Biology",
+    "category": "Science"
+  },
+  {
+    "id": 31,
     "text": "Who was the first Prime Minister of India?",
     "option1": "Mahatma Gandhi",
     "option2": "Jawaharlal Nehru",
@@ -100,7 +310,7 @@
     "category": "History"
   },
   {
-    "id": 11,
+    "id": 32,
     "text": "In which year did India gain independence?",
     "option1": "1945",
     "option2": "1947",
@@ -110,7 +320,7 @@
     "category": "History"
   },
   {
-    "id": 12,
+    "id": 33,
     "text": "The 'Dandi March' was led by which leader?",
     "option1": "Jawaharlal Nehru",
     "option2": "Mahatma Gandhi",
@@ -120,7 +330,77 @@
     "category": "History"
   },
   {
-    "id": 13,
+    "id": 34,
+    "text": "Who was the first woman Prime Minister of India?",
+    "option1": "Sonia Gandhi",
+    "option2": "Indira Gandhi",
+    "option3": "Mother Teresa",
+    "option4": "Sarojini Naidu",
+    "correctAnswer": "Indira Gandhi",
+    "category": "History"
+  },
+  {
+    "id": 35,
+    "text": "When was the Indian Constitution adopted?",
+    "option1": "1947",
+    "option2": "1949",
+    "option3": "1950",
+    "option4": "1952",
+    "correctAnswer": "1950",
+    "category": "History"
+  },
+  {
+    "id": 36,
+    "text": "Who founded the Mughal Empire in India?",
+    "option1": "Akbar",
+    "option2": "Babur",
+    "option3": "Shah Jahan",
+    "option4": "Aurangzeb",
+    "correctAnswer": "Babur",
+    "category": "History"
+  },
+  {
+    "id": 37,
+    "text": "Which was the first metal used by humans?",
+    "option1": "Iron",
+    "option2": "Copper",
+    "option3": "Bronze",
+    "option4": "Gold",
+    "correctAnswer": "Copper",
+    "category": "History"
+  },
+  {
+    "id": 38,
+    "text": "When did World War I begin?",
+    "option1": "1912",
+    "option2": "1914",
+    "option3": "1916",
+    "option4": "1918",
+    "correctAnswer": "1914",
+    "category": "History"
+  },
+  {
+    "id": 39,
+    "text": "Who discovered America?",
+    "option1": "Vasco da Gama",
+    "option2": "Christopher Columbus",
+    "option3": "Marco Polo",
+    "option4": "James Cook",
+    "correctAnswer": "Christopher Columbus",
+    "category": "History"
+  },
+  {
+    "id": 40,
+    "text": "Which dynasty built the Taj Mahal?",
+    "option1": "Gupta Dynasty",
+    "option2": "Mughal Dynasty",
+    "option3": "Maurya Dynasty",
+    "option4": "Chola Dynasty",
+    "correctAnswer": "Mughal Dynasty",
+    "category": "History"
+  },
+  {
+    "id": 41,
     "text": "Which is the longest river in India?",
     "option1": "Yamuna",
     "option2": "Brahmaputra",
@@ -130,7 +410,7 @@
     "category": "Geography"
   },
   {
-    "id": 14,
+    "id": 42,
     "text": "Which state in India has the longest coastline?",
     "option1": "Kerala",
     "option2": "Maharashtra",
@@ -140,13 +420,83 @@
     "category": "Geography"
   },
   {
-    "id": 15,
+    "id": 43,
     "text": "Mount Everest is located in which mountain range?",
     "option1": "Alps",
     "option2": "Himalayas",
     "option3": "Andes",
     "option4": "Rockies",
     "correctAnswer": "Himalayas",
+    "category": "Geography"
+  },
+  {
+    "id": 44,
+    "text": "Which is the largest desert in the world?",
+    "option1": "Gobi Desert",
+    "option2": "Sahara Desert",
+    "option3": "Kalahari Desert",
+    "option4": "Thar Desert",
+    "correctAnswer": "Sahara Desert",
+    "category": "Geography"
+  },
+  {
+    "id": 45,
+    "text": "What is the capital of Australia?",
+    "option1": "Sydney",
+    "option2": "Melbourne",
+    "option3": "Canberra",
+    "option4": "Perth",
+    "correctAnswer": "Canberra",
+    "category": "Geography"
+  },
+  {
+    "id": 46,
+    "text": "Which ocean is the largest?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Pacific Ocean",
+    "option4": "Arctic Ocean",
+    "correctAnswer": "Pacific Ocean",
+    "category": "Geography"
+  },
+  {
+    "id": 47,
+    "text": "Which country has the largest population?",
+    "option1": "India",
+    "option2": "USA",
+    "option3": "China",
+    "option4": "Russia",
+    "correctAnswer": "China",
+    "category": "Geography"
+  },
+  {
+    "id": 48,
+    "text": "What is the capital of Japan?",
+    "option1": "Beijing",
+    "option2": "Seoul",
+    "option3": "Tokyo",
+    "option4": "Bangkok",
+    "correctAnswer": "Tokyo",
+    "category": "Geography"
+  },
+  {
+    "id": 49,
+    "text": "Which is the smallest continent?",
+    "option1": "Europe",
+    "option2": "Australia",
+    "option3": "Antarctica",
+    "option4": "South America",
+    "correctAnswer": "Australia",
+    "category": "Geography"
+  },
+  {
+    "id": 50,
+    "text": "Which river is called the 'Sorrow of China'?",
+    "option1": "Yangtze River",
+    "option2": "Yellow River",
+    "option3": "Mekong River",
+    "option4": "Pearl River",
+    "correctAnswer": "Yellow River",
     "category": "Geography"
   }
 ]
