@@ -1,30 +1,30 @@
 [
   {
-    "id": "math",
+    "id": "Mathematics",
     "name": "Mathematics",
-    "description": "Math practice questions",
+    "description": "Math practice questions including arithmetic, algebra, and geometry",
     "questionCount": 50
   },
   {
-    "id": "english",
-    "name": "English", 
-    "description": "English grammar and vocabulary",
+    "id": "English", 
+    "name": "English",
+    "description": "English grammar, vocabulary, and comprehension",
     "questionCount": 40
   },
   {
-    "id": "science",
+    "id": "Science",
     "name": "Science",
-    "description": "General science questions",
+    "description": "General science covering physics, chemistry, and biology",
     "questionCount": 35
   },
   {
-    "id": "history",
+    "id": "History",
     "name": "History",
-    "description": "World and Indian history",
+    "description": "World history and Indian history",
     "questionCount": 30
   },
   {
-    "id": "geography",
+    "id": "Geography",
     "name": "Geography",
     "description": "World geography and Indian geography",
     "questionCount": 25
