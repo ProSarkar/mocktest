@@ -9,30 +9,30 @@
     "id": "Mathematics",
     "name": "Mathematics",
     "description": "Math practice questions including arithmetic, algebra, and geometry",
-    "questionCount": 50
+    "questionCount": 10
   },
   {
     "id": "English", 
     "name": "English",
     "description": "English grammar, vocabulary, and comprehension",
-    "questionCount": 40
+    "questionCount": 10
   },
   {
     "id": "Science",
     "name": "Science",
     "description": "General science covering physics, chemistry, and biology",
-    "questionCount": 35
+    "questionCount": 10
   },
   {
     "id": "History",
     "name": "History",
     "description": "World history and Indian history",
-    "questionCount": 30
+    "questionCount": 10
   },
   {
     "id": "Geography",
     "name": "Geography",
     "description": "World geography and Indian geography",
-    "questionCount": 25
+    "questionCount": 10
   }
 ]
