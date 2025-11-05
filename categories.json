@@ -1,38 +1,32 @@
 [
   {
-    "id": "WB SSCClark C 2025",
-    "name": "WB SSCClark C 2025",
-    "description": "Math practice questions including arithmetic, algebra, and geometry",
-    "questionCount": 50
+    "id": "android_basics",
+    "name": "Android Basics",
+    "description": "Fundamental Android development concepts",
+    "questionCount": 25
   },
   {
-    "id": "Mathematics",
-    "name": "Mathematics",
-    "description": "Math practice questions including arithmetic, algebra, and geometry",
-    "questionCount": 10
+    "id": "kotlin_fundamentals", 
+    "name": "Kotlin Fundamentals",
+    "description": "Core Kotlin programming concepts",
+    "questionCount": 30
   },
   {
-    "id": "English", 
-    "name": "English",
-    "description": "English grammar, vocabulary, and comprehension",
-    "questionCount": 10
+    "id": "compose_ui",
+    "name": "Jetpack Compose UI",
+    "description": "Modern Android UI with Jetpack Compose",
+    "questionCount": 20
   },
   {
-    "id": "Science",
-    "name": "Science",
-    "description": "General science covering physics, chemistry, and biology",
-    "questionCount": 10
+    "id": "room_database",
+    "name": "Room Database",
+    "description": "Local database management with Room",
+    "questionCount": 15
   },
   {
-    "id": "History",
-    "name": "History",
-    "description": "World history and Indian history",
-    "questionCount": 10
-  },
-  {
-    "id": "Geography",
-    "name": "Geography",
-    "description": "World geography and Indian geography",
-    "questionCount": 10
+    "id": "architecture",
+    "name": "Architecture Patterns",
+    "description": "MVVM, MVI, Clean Architecture patterns",
+    "questionCount": 22
   }
 ]
