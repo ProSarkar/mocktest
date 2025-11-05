@@ -1,52 +1,252 @@
 [
   {
-    "id": 1,
-    "text": "What is the primary programming language for Android development recommended by Google?",
-    "option1": "Java",
-    "option2": "Kotlin", 
-    "option3": "Dart",
-    "option4": "Swift",
-    "correctAnswer": "Kotlin",
-    "category": "android_basics"
+    "id": 1001,
+    "text": "Who was the first Indian to become the Governor of West Bengal?",
+    "option1": "Dr. Shyama Prasad Mukherjee",
+    "option2": "Chakravarti Rajagopalachari",
+    "option3": "Padmaja Naidu",
+    "option4": "Dharma Vira",
+    "correctAnswer": "Chakravarti Rajagopalachari",
+    "category": "wbcs_prelims"
   },
   {
-    "id": 2,
-    "text": "Which annotation is used to define a Composable function in Jetpack Compose?",
-    "option1": "@Compose",
-    "option2": "@Composable",
-    "option3": "@UI",
-    "option4": "@Component",
-    "correctAnswer": "@Composable",
-    "category": "compose_ui"
+    "id": 1002,
+    "text": "The 'Hungry Movement' in Bengal was associated with:",
+    "option1": "Food scarcity in 1943",
+    "option2": "Peasant uprising in 1859",
+    "option3": "Literary movement in 1960s",
+    "option4": "Student movement in 1970s",
+    "correctAnswer": "Food scarcity in 1943",
+    "category": "wbcs_prelims"
   },
   {
-    "id": 3,
-    "text": "What is the purpose of a ViewModel in Android Architecture Components?",
-    "option1": "To handle UI rendering",
-    "option2": "To manage UI-related data in a lifecycle-conscious way",
-    "option3": "To store persistent data", 
-    "option4": "To handle network requests",
-    "correctAnswer": "To manage UI-related data in a lifecycle-conscious way",
-    "category": "architecture"
+    "id": 1003,
+    "text": "Which of the following rivers does NOT flow through West Bengal?",
+    "option1": "Teesta",
+    "option2": "Jaldhaka",
+    "option3": "Mahananda",
+    "option4": "Brahmaputra",
+    "correctAnswer": "Brahmaputra",
+    "category": "geography"
   },
   {
-    "id": 4,
-    "text": "Which Room annotation is used to define a Data Access Object (DAO)?",
-    "option1": "@Entity",
-    "option2": "@Database",
-    "option3": "@Dao",
-    "option4": "@Repository",
-    "correctAnswer": "@Dao",
-    "category": "room_database"
+    "id": 1004,
+    "text": "The first woman Chief Minister of West Bengal was:",
+    "option1": "Mamata Banerjee",
+    "option2": "Ananda Mohan Bose",
+    "option3": "Bidhan Chandra Roy",
+    "option4": "Ajoy Kumar Mukherjee",
+    "correctAnswer": "Mamata Banerjee",
+    "category": "polity"
   },
   {
-    "id": 5,
-    "text": "What does the 'suspend' modifier indicate in Kotlin?",
-    "option1": "The function is asynchronous and can be paused",
-    "option2": "The function is synchronous",
-    "option3": "The function is deprecated",
-    "option4": "The function is for UI operations only",
-    "correctAnswer": "The function is asynchronous and can be paused",
-    "category": "kotlin_fundamentals"
+    "id": 1005,
+    "text": "Sundarbans was declared a UNESCO World Heritage Site in:",
+    "option1": "1985",
+    "option2": "1987",
+    "option3": "1995",
+    "option4": "1997",
+    "correctAnswer": "1987",
+    "category": "environment"
+  },
+  {
+    "id": 1006,
+    "text": "Who wrote the novel 'Pather Panchali'?",
+    "option1": "Rabindranath Tagore",
+    "option2": "Sarat Chandra Chattopadhyay",
+    "option3": "Bibhutibhushan Bandyopadhyay",
+    "option4": "Bankim Chandra Chattopadhyay",
+    "correctAnswer": "Bibhutibhushan Bandyopadhyay",
+    "category": "bengali_language"
+  },
+  {
+    "id": 1007,
+    "text": "The capital of West Bengal is:",
+    "option1": "Asansol",
+    "option2": "Siliguri",
+    "option3": "Kolkata",
+    "option4": "Durgapur",
+    "correctAnswer": "Kolkata",
+    "category": "general_studies"
+  },
+  {
+    "id": 1008,
+    "text": "Which article of the Indian Constitution deals with the President's power to promulgate ordinances?",
+    "option1": "Article 123",
+    "option2": "Article 124",
+    "option3": "Article 213",
+    "option4": "Article 352",
+    "correctAnswer": "Article 123",
+    "category": "polity"
+  },
+  {
+    "id": 1009,
+    "text": "The 'Green Revolution' in India was launched in the:",
+    "option1": "1950s",
+    "option2": "1960s",
+    "option3": "1970s",
+    "option4": "1980s",
+    "correctAnswer": "1960s",
+    "category": "economy"
+  },
+  {
+    "id": 1010,
+    "text": "Who was the first Governor-General of independent India?",
+    "option1": "Lord Mountbatten",
+    "option2": "C. Rajagopalachari",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Rajendra Prasad",
+    "correctAnswer": "Lord Mountbatten",
+    "category": "history_culture"
+  },
+  {
+    "id": 1011,
+    "text": "The headquarters of the Eastern Railway Zone is located in:",
+    "option1": "Kolkata",
+    "option2": "Howrah",
+    "option3": "Sealdah",
+    "option4": "Asansol",
+    "correctAnswer": "Kolkata",
+    "category": "general_studies"
+  },
+  {
+    "id": 1012,
+    "text": "Which of the following is NOT a fundamental right in the Indian Constitution?",
+    "option1": "Right to Equality",
+    "option2": "Right to Property",
+    "option3": "Right to Freedom of Religion",
+    "option4": "Right to Constitutional Remedies",
+    "correctAnswer": "Right to Property",
+    "category": "polity"
+  },
+  {
+    "id": 1013,
+    "text": "The 'Dooars' region is located in which part of West Bengal?",
+    "option1": "Northern",
+    "option2": "Southern",
+    "option3": "Eastern",
+    "option4": "Western",
+    "correctAnswer": "Northern",
+    "category": "geography"
+  },
+  {
+    "id": 1014,
+    "text": "Who composed the national song 'Vande Mataram'?",
+    "option1": "Rabindranath Tagore",
+    "option2": "Bankim Chandra Chattopadhyay",
+    "option3": "Kazi Nazrul Islam",
+    "option4": "Swami Vivekananda",
+    "correctAnswer": "Bankim Chandra Chattopadhyay",
+    "category": "history_culture"
+  },
+  {
+    "id": 1015,
+    "text": "The 'Siliguri Corridor' connects Northeast India with:",
+    "option1": "Bangladesh",
+    "option2": "Nepal",
+    "option3": "Bhutan",
+    "option4": "Rest of India",
+    "correctAnswer": "Rest of India",
+    "category": "geography"
+  },
+  {
+    "id": 1016,
+    "text": "Which of the following is a Kharif crop?",
+    "option1": "Wheat",
+    "option2": "Barley",
+    "option3": "Rice",
+    "option4": "Mustard",
+    "correctAnswer": "Rice",
+    "category": "economy"
+  },
+  {
+    "id": 1017,
+    "text": "The first satellite of India, Aryabhata, was launched in:",
+    "option1": "1972",
+    "option2": "1975",
+    "option3": "1980",
+    "option4": "1984",
+    "correctAnswer": "1975",
+    "category": "science_technology"
+  },
+  {
+    "id": 1018,
+    "text": "Who was the first Chief Minister of West Bengal?",
+    "option1": "Bidhan Chandra Roy",
+    "option2": "Prafulla Chandra Ghosh",
+    "option3": "Ajoy Kumar Mukherjee",
+    "option4": "Siddhartha Shankar Ray",
+    "correctAnswer": "Prafulla Chandra Ghosh",
+    "category": "polity"
+  },
+  {
+    "id": 1019,
+    "text": "The 'Mandovi River' is located in:",
+    "option1": "Goa",
+    "option2": "Kerala",
+    "option3": "Karnataka",
+    "option4": "Maharashtra",
+    "correctAnswer": "Goa",
+    "category": "geography"
+  },
+  {
+    "id": 1020,
+    "text": "The 'Right to Education Act' was enacted in the year:",
+    "option1": "2002",
+    "option2": "2005",
+    "option3": "2009",
+    "option4": "2010",
+    "correctAnswer": "2009",
+    "category": "current_affairs"
+  },
+  {
+    "id": 1021,
+    "text": "Which of the following is NOT a dance form of West Bengal?",
+    "option1": "Chhau",
+    "option2": "Gambhira",
+    "option3": "Bhangra",
+    "option4": "Baul",
+    "correctAnswer": "Bhangra",
+    "category": "history_culture"
+  },
+  {
+    "id": 1022,
+    "text": "The 'Nobel Prize in Literature' was awarded to Rabindranath Tagore in:",
+    "option1": "1912",
+    "option2": "1913",
+    "option3": "1914",
+    "option4": "1915",
+    "correctAnswer": "1913",
+    "category": "bengali_language"
+  },
+  {
+    "id": 1023,
+    "text": "Which planet is known as the 'Red Planet'?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Mars",
+    "category": "science_technology"
+  },
+  {
+    "id": 1024,
+    "text": "The 'Reserve Bank of India' was established in:",
+    "option1": "1935",
+    "option2": "1947",
+    "option3": "1949",
+    "option4": "1951",
+    "correctAnswer": "1935",
+    "category": "economy"
+  },
+  {
+    "id": 1025,
+    "text": "The 'Kolkata Metro' was inaugurated in:",
+    "option1": "1984",
+    "option2": "1986",
+    "option3": "1988",
+    "option4": "1990",
+    "correctAnswer": "1984",
+    "category": "current_affairs"
   }
 ]
