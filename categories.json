@@ -1,32 +1,74 @@
 [
   {
-    "id": "android_basics",
-    "name": "Android Basics",
-    "description": "Fundamental Android development concepts",
-    "questionCount": 25
+    "id": "wbcs_prelims",
+    "name": "WBCS Prelims",
+    "description": "West Bengal Civil Service Preliminary Examination",
+    "questionCount": 100
   },
   {
-    "id": "kotlin_fundamentals", 
-    "name": "Kotlin Fundamentals",
-    "description": "Core Kotlin programming concepts",
-    "questionCount": 30
+    "id": "wbcs_mains",
+    "name": "WBCS Mains",
+    "description": "West Bengal Civil Service Main Examination",
+    "questionCount": 150
   },
   {
-    "id": "compose_ui",
-    "name": "Jetpack Compose UI",
-    "description": "Modern Android UI with Jetpack Compose",
-    "questionCount": 20
+    "id": "general_studies",
+    "name": "General Studies",
+    "description": "General Studies for WBCS Examination",
+    "questionCount": 200
   },
   {
-    "id": "room_database",
-    "name": "Room Database",
-    "description": "Local database management with Room",
-    "questionCount": 15
+    "id": "current_affairs",
+    "name": "Current Affairs",
+    "description": "Current Affairs and General Knowledge",
+    "questionCount": 150
   },
   {
-    "id": "architecture",
-    "name": "Architecture Patterns",
-    "description": "MVVM, MVI, Clean Architecture patterns",
-    "questionCount": 22
+    "id": "bengali_language",
+    "name": "Bengali Language",
+    "description": "Bengali Literature and Language",
+    "questionCount": 75
+  },
+  {
+    "id": "english_language",
+    "name": "English Language",
+    "description": "English Comprehension and Language",
+    "questionCount": 75
+  },
+  {
+    "id": "history_culture",
+    "name": "History & Culture",
+    "description": "Indian History and Bengali Culture",
+    "questionCount": 125
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "description": "Indian and World Geography",
+    "questionCount": 100
+  },
+  {
+    "id": "polity",
+    "name": "Indian Polity",
+    "description": "Constitution and Political System",
+    "questionCount": 100
+  },
+  {
+    "id": "economy",
+    "name": "Indian Economy",
+    "description": "Economic Development and Planning",
+    "questionCount": 100
+  },
+  {
+    "id": "science_technology",
+    "name": "Science & Technology",
+    "description": "General Science and Technological Developments",
+    "questionCount": 100
+  },
+  {
+    "id": "environment",
+    "name": "Environment & Ecology",
+    "description": "Environmental Studies and Ecology",
+    "questionCount": 75
   }
 ]
