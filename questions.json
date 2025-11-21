@@ -1,54 +1,102 @@
-{
-  "questions": [
-    {
-      "id": 1,
-      "text": "What is the value of π (pi) approximately?",
-      "option1": "3.14",
-      "option2": "2.71", 
-      "option3": "1.41",
-      "option4": "1.61",
-      "correctAnswer": "3.14",
-      "category": "math"
-    },
-    {
-      "id": 2,
-      "text": "Which gas is most abundant in Earth's atmosphere?",
-      "option1": "Oxygen",
-      "option2": "Carbon Dioxide",
-      "option3": "Nitrogen",
-      "option4": "Hydrogen", 
-      "correctAnswer": "Nitrogen",
-      "category": "science"
-    },
-    {
-      "id": 3,
-      "text": "Who was the first President of the United States?",
-      "option1": "Thomas Jefferson",
-      "option2": "Abraham Lincoln",
-      "option3": "George Washington",
-      "option4": "John Adams",
-      "correctAnswer": "George Washington",
-      "category": "history"
-    },
-    {
-      "id": 4,
-      "text": "Choose the correct sentence:",
-      "option1": "She don't like apples",
-      "option2": "She doesn't like apples",
-      "option3": "She doesn't likes apples",
-      "option4": "She don't likes apples",
-      "correctAnswer": "She doesn't like apples",
-      "category": "english"
-    },
-    {
-      "id": 5,
-      "text": "What is the capital of Japan?",
-      "option1": "Seoul",
-      "option2": "Beijing", 
-      "option3": "Tokyo",
-      "option4": "Bangkok",
-      "correctAnswer": "Tokyo",
-      "category": "gk"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "text": "What is 15 + 27?",
+    "option1": "42",
+    "option2": "32",
+    "option3": "52", 
+    "option4": "37",
+    "correctAnswer": "42",
+    "category": "math"
+  },
+  {
+    "id": 2,
+    "text": "What is the chemical symbol for gold?",
+    "option1": "Go",
+    "option2": "Gd",
+    "option3": "Au",
+    "option4": "Ag",
+    "correctAnswer": "Au",
+    "category": "science"
+  },
+  {
+    "id": 3, 
+    "text": "In which year did World War II end?",
+    "option1": "1944",
+    "option2": "1945",
+    "option3": "1946",
+    "option4": "1947",
+    "correctAnswer": "1945",
+    "category": "history"
+  },
+  {
+    "id": 4,
+    "text": "Which word is a synonym for 'happy'?",
+    "option1": "Sad",
+    "option2": "Angry",
+    "option3": "Joyful", 
+    "option4": "Tired",
+    "correctAnswer": "Joyful",
+    "category": "english"
+  },
+  {
+    "id": 5,
+    "text": "Which planet is known as the Red Planet?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "correctAnswer": "Mars",
+    "category": "gk"
+  },
+  {
+    "id": 6,
+    "text": "Solve: 8 × 7 ÷ 4",
+    "option1": "12",
+    "option2": "14", 
+    "option3": "16",
+    "option4": "18",
+    "correctAnswer": "14",
+    "category": "math"
+  },
+  {
+    "id": 7,
+    "text": "What is the hardest natural substance on Earth?",
+    "option1": "Gold",
+    "option2": "Iron",
+    "option3": "Diamond",
+    "option4": "Platinum",
+    "correctAnswer": "Diamond",
+    "category": "science"
+  },
+  {
+    "id": 8,
+    "text": "Who invented the telephone?",
+    "option1": "Thomas Edison",
+    "option2": "Alexander Graham Bell",
+    "option3": "Nikola Tesla", 
+    "option4": "Albert Einstein",
+    "correctAnswer": "Alexander Graham Bell",
+    "category": "history"
+  },
+  {
+    "id": 9,
+    "text": "Which sentence is in the past tense?",
+    "option1": "She goes to school",
+    "option2": "She is going to school",
+    "option3": "She went to school",
+    "option4": "She will go to school",
+    "correctAnswer": "She went to school",
+    "category": "english"
+  },
+  {
+    "id": 10,
+    "text": "How many continents are there on Earth?",
+    "option1": "5",
+    "option2": "6",
+    "option3": "7",
+    "option4": "8",
+    "correctAnswer": "7",
+    "category": "gk"
+  }
+]
