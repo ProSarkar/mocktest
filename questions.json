@@ -1,1 +1,54 @@
-
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the value of π (pi) approximately?",
+      "option1": "3.14",
+      "option2": "2.71", 
+      "option3": "1.41",
+      "option4": "1.61",
+      "correctAnswer": "3.14",
+      "category": "math"
+    },
+    {
+      "id": 2,
+      "text": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Carbon Dioxide",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen", 
+      "correctAnswer": "Nitrogen",
+      "category": "science"
+    },
+    {
+      "id": 3,
+      "text": "Who was the first President of the United States?",
+      "option1": "Thomas Jefferson",
+      "option2": "Abraham Lincoln",
+      "option3": "George Washington",
+      "option4": "John Adams",
+      "correctAnswer": "George Washington",
+      "category": "history"
+    },
+    {
+      "id": 4,
+      "text": "Choose the correct sentence:",
+      "option1": "She don't like apples",
+      "option2": "She doesn't like apples",
+      "option3": "She doesn't likes apples",
+      "option4": "She don't likes apples",
+      "correctAnswer": "She doesn't like apples",
+      "category": "english"
+    },
+    {
+      "id": 5,
+      "text": "What is the capital of Japan?",
+      "option1": "Seoul",
+      "option2": "Beijing", 
+      "option3": "Tokyo",
+      "option4": "Bangkok",
+      "correctAnswer": "Tokyo",
+      "category": "gk"
+    }
+  ]
+}
