@@ -1,8 +1,8 @@
 [
   {
     "id": "english", 
-    "name": "English",
+    "name": "WBCS English",
     "description": "English grammar and vocabulary",
-    "questionCount": 9
+    "questionCount": 25
   }
 ]
