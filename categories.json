@@ -1,32 +1,8 @@
 [
   {
-    "id": "math",
-    "name": "Mathematics",
-    "description": "Basic mathematics questions",
-    "questionCount": 10
-  },
-  {
-    "id": "science",
-    "name": "Science",
-    "description": "General science questions", 
-    "questionCount": 8
-  },
-  {
-    "id": "history",
-    "name": "History",
-    "description": "World history questions",
-    "questionCount": 7
-  },
-  {
     "id": "english", 
     "name": "English",
     "description": "English grammar and vocabulary",
     "questionCount": 9
-  },
-  {
-    "id": "gk",
-    "name": "General Knowledge",
-    "description": "Current affairs and GK",
-    "questionCount": 12
   }
 ]
